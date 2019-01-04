@@ -5,6 +5,6 @@ author: ItzJustPammie
 description: The main plugin of WantedNetwork
 
 commands:
-  verify:
-    usage: /verify
-    description: Command to verify
+  discord:
+    usage: /discord
+    description: Geeft de discord link

@@ -1,0 +1,10 @@
+main: me.itzjustpammie.Main
+name: WantedNetwork
+version: 0.0.1
+author: ItzJustPammie
+description: The main plugin of WantedNetwork
+
+commands:
+  verify:
+    usage: /verify
+    description: Command to verify
